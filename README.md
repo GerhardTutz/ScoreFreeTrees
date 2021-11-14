@@ -5,7 +5,7 @@ http://arxiv.org/abs/2102.00415.
 
 ScoreFreeFitExample contains an example how to fit score free trees.
 
-EvalLoopAug21 compares vaious tree methods for various data sets by splitting data into learning and validation sets.
+EvalLoopAug21 compares various tree methods for various data sets by splitting data into learning and validation sets.
 
 OrdRandForestFlexible and OrdPredAug21 contain the functions needed to fit, should run first.
 
